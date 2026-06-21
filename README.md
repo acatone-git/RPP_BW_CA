@@ -1,6 +1,6 @@
 # Retro Pixel Pocket B/W Charging Animation
 
-A simple b/w charging animation for the RPP (720x720)
+A simple b/w charging animation for the Retro Pixel Pocket (720x720)
 
 ## Showcase
 
