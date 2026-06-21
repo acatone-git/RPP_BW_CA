@@ -8,7 +8,7 @@ A simple b/w charging animation for the RPP
 
 ## Installation
 
-- Download the animation archive from the release page:
+- Download the animation archive from the release page: [RPP_BW_CA](https://github.com/acatone-git/RPP_BW_CA/releases/download/release/RPP_BW_CA.zip).
 - Copy / Replace the files on the SD Card
 - EnjoY!
 
