@@ -9,7 +9,8 @@ A simple b/w charging animation for the Retro Pixel Pocket (720x720)
 ## Installation
 
 - Download the animation archive from the release page: [RPP_BW_CA](https://github.com/acatone-git/RPP_BW_CA/releases/download/release/RPP_BW_CA.zip)
-- Copy / Replace the files on the SD Card (battery_0.bmp, battery_1.bmp, battery_2.bmp, battery_3.bmp & battery_fail.bmp)
+- Copy / Replace the files on the SD Card 
+(battery_0.bmp, battery_1.bmp, battery_2.bmp, battery_3.bmp & battery_fail.bmp)
 - Enjoy!
 
  ## Credits
