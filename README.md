@@ -2,6 +2,8 @@
 
 A simple b/w charging animation for the RPP
 
+## Demo
+
 <img width="720" height="720" alt="demo" src="https://github.com/user-attachments/assets/d4001b62-2258-4499-b807-5145683ccae5" />
 
 ## Installation
@@ -15,4 +17,3 @@ A simple b/w charging animation for the RPP
 - https://www.vecteezy.com/video/72033493-battery-charging-progress-bar-animation
 - https://ezgif.com/
 - https://www.gimp.org/
-- 
